@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there,I'm Thenushka👋
 
 
-Hi, Im Thenushka 
+
 
 
 # 💻 Tech Stack:
